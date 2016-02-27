@@ -1,0 +1,33 @@
+_repo: The-Tragedy-of-Coriolanus_1535
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: The plays in the New Kittredge Shakespeare series retain their original
+  Kittredge notes and introductions, changed or augmented only when some modernization
+  seems necessary. These new editions also include introductory essays by contemporary
+  editors, notes on the plays as they have been performed on stage and film, and additional
+  student materials.
+gutenberg_issued: '1998-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragedies'
+- !lcc 'PR'
+- !lcsh 'Generals -- Drama'
+- !lcsh 'Rome -- Drama'
+- !lcsh 'Coriolanus, Cnaeus Marcius -- Drama'
+title: The Tragedy of Coriolanus
+url: http://www.gutenberg.org/ebooks/1535
