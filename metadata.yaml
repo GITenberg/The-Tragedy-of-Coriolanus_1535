@@ -1,5 +1,5 @@
 _repo: The-Tragedy-of-Coriolanus_1535
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -35,5 +35,6 @@ subjects:
 - !lcsh 'Generals -- Drama'
 - !lcsh 'Rome -- Drama'
 - !lcsh 'Coriolanus, Cnaeus Marcius -- Drama'
+- GITenberg
 title: The Tragedy of Coriolanus
 url: http://www.gutenberg.org/ebooks/1535
